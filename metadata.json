@@ -1,0 +1,6 @@
+{
+  "name": "QadaMate — قضاء نماز",
+  "description": "A mindful Salah tracker and Qada management companion for Muslims to track daily prayers and make up missed prayers.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
